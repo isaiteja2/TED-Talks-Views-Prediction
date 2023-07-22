@@ -1,5 +1,5 @@
 # **Project Name**    - **TED Talks Views Prediction**
-
+##### Verified Project: [Credentials](https://certificates.almabetter.com/en/verify/30813941091287)
 ##### **Project Type**    - Supervised Learning (Regression)
 ##### **Contribution**    - Individual
 ##### **Name**          - Saiteja Ch
